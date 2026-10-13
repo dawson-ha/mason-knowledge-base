@@ -1,0 +1,12 @@
+# Obsidian — 本机窗口布局，每人不同
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+*.swp
+*~
